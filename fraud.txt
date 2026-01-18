@@ -1,0 +1,14 @@
+# Title: Fraud Block List
+# Description: Fraud and scam domains
+# Homepage: https://github.com/dburianov/blocklistproject
+# License: MIT
+# Last modified: 2026-01-18 23:39:32 UTC
+# Format: hosts
+# Entries: 1
+# URL: 
+#
+# This list is maintained by The Block List Project
+# https://github.com/dburianov/blocklistproject
+#
+# site cope for onlyfans.com
+0.0.0.0 on1yfans.com
